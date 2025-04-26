@@ -47,3 +47,5 @@ City has park kind arch benefit.
 City has park kind arch marry.
 
 City has park kind arch land.
+
+City has major.
