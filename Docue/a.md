@@ -48,4 +48,8 @@ City has park kind arch marry.
 
 City has park kind arch land.
 
+City has park mark.
+
+City has park cross.
+
 City has major.
