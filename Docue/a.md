@@ -53,3 +53,33 @@ City has park mark.
 City has park cross.
 
 City has major.
+
+City has define name.
+
+The name is "Landera".
+
+Landera word has 1 meaning.
+
+The meaning is land human city.
+
+Landera word has 1 meaning.
+
+The meaning is earth human city.
+
+Landera word has 1 meaning.
+
+The meaning is earth human cross center.
+
+Landera word has 1 meaning.
+
+The meaning is earth human home center.
+
+Landera word has spell.
+The spell is:
+"L" for Live Earth.
+"a" for any class.
+"n" for never.
+"d" for done.
+"e" for effect.
+"r" for radius.
+"a" for all.
