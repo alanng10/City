@@ -88,6 +88,14 @@ City has 1 define name.
 
 The name is "Folay".
 
+Folay word has 1 meaning.
+
+The meaning is area operate center.
+
+Folay word has 1 meaning.
+
+The meaning is area city center.
+
 Folay word has spell.
 The spell is:
 "F" for Friend Near.
