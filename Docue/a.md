@@ -94,4 +94,4 @@ The spell is:
 "o" for operate.
 "l" for long.
 "a" for all.
-"y" for year.
+"y" for yea.
