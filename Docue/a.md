@@ -54,7 +54,7 @@ City has park cross.
 
 City has major.
 
-City has define name.
+City has 1 define name.
 
 The name is "Landera".
 
