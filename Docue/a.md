@@ -83,3 +83,15 @@ The spell is:
 "e" for effect.
 "r" for radius.
 "a" for all.
+
+City has 1 define name.
+
+The name is "Folay".
+
+Folay word has spell.
+The spell is:
+"F" for Friend Near.
+"o" for operate.
+"l" for long.
+"a" for all.
+"y" for year.
