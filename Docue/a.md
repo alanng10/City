@@ -106,6 +106,26 @@ The spell is:
 
 City has 1 define name.
 
+The name is "Wason".
+
+Wason word has 1 meaning.
+
+The meaning is area operate center.
+
+Wason word has 1 meaning.
+
+The meaning is area city center.
+
+Wason word has spell.
+The spell is:
+"W" for Worth Near.
+"a" for all.
+"s" for storey.
+"o" for operate.
+"n" for never.
+
+City has 1 define name.
+
 The name is "Lonade".
 
 Lonade word has 1 meaning.
