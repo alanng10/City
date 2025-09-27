@@ -158,3 +158,32 @@ The spell is:
 "e" for emit good.
 
 Lonade word pronoun is in 2 sound.
+
+Lonade word has 1 meaning.
+
+The meaning is land super center.
+
+Lonade word has 1 meaning.
+
+The meaning is land super home.
+
+Lonade word has 1 meaning.
+
+The meaning is land super city.
+
+Lonade word has 1 meaning.
+
+The meaning is land super area.
+
+Lonade word has 1 meaning.
+
+The meaning is land super metro.
+
+Lonade word has spell.
+The spell is:
+"L" for Land Super.
+"o" for offer marry.
+"n" for never class.
+"a" for all life.
+"d" for done effect.
+"e" for emit good.
