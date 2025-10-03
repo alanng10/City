@@ -134,7 +134,7 @@ The meaning is good class center.
 
 Grapan word has 1 meaning.
 
-The meaning is good city center.
+The meaning is good class city.
 
 Grapan word has spell.
 The spell is:
