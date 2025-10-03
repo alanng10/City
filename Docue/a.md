@@ -145,6 +145,15 @@ The spell is:
 "a" for any class.
 "n" for never effect.
 
+Grasan word has spell.
+The spell is:
+"G" for Good Super.
+"r" for radius total.
+"a" for all life.
+"s" for seer marry.
+"a" for any class.
+"n" for never effect.
+
 City has 1 define name.
 
 The name is "Lonade".
