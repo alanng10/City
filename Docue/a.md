@@ -126,22 +126,22 @@ The spell is:
 
 City has 1 define name.
 
-The name is "Grapan".
+The name is "Grasan".
 
-Grapan word has 1 meaning.
+Grasan word has 1 meaning.
 
 The meaning is good class center.
 
-Grapan word has 1 meaning.
+Grasan word has 1 meaning.
 
 The meaning is good class city.
 
-Grapan word has spell.
+Grasan word has spell.
 The spell is:
 "G" for Good Class.
 "r" for round entire.
 "a" for all life.
-"p" for present marry.
+"s" for set marry.
 "a" for any class.
 "n" for never effect.
 
