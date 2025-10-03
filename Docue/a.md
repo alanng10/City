@@ -145,6 +145,14 @@ The spell is:
 "a" for any class.
 "n" for never effect.
 
+Grasan word has 1 meaning.
+
+The meaning is good super center.
+
+Grasan word has 1 meaning.
+
+The meaning is good super city.
+
 Grasan word has spell.
 The spell is:
 "G" for Good Super.
