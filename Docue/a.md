@@ -126,6 +126,27 @@ The spell is:
 
 City has 1 define name.
 
+The name is "Grapan".
+
+Grapan word has 1 meaning.
+
+The meaning is good class center.
+
+Grapan word has 1 meaning.
+
+The meaning is good city center.
+
+Grapan word has spell.
+The spell is:
+"G" for Good Class.
+"r" for round entire.
+"a" for all life.
+"p" for present marry.
+"a" for any class.
+"n" for never effect.
+
+City has 1 define name.
+
 The name is "Lonade".
 
 Lonade word has 1 meaning.
